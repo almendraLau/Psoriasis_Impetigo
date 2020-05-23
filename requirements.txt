@@ -36,8 +36,6 @@ cryptography==2.1.4
 cycler==0.10.0
 Cython==0.27.3
 cytoolz==0.9.0
-# Editable install with no version control (darkflow==1.0.0)
--e c:\users\prisila\.conda\envs\yolito\lib\site-packages
 dask==0.16.1
 datashape==0.5.4
 decorator==4.2.1
