@@ -4,6 +4,6 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 matplotlib==2.1.2
 numpy==1.16.3
-Pillow==7.0.0
+Pillow==9.3.0
 streamlit==0.52.2
 tensorflow==1.13.1
